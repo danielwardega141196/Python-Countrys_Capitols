@@ -1,0 +1,11 @@
+Gra w której losujemy jedno państwo i oczekujemy podania jego stolicy.
+
+Program daje możliwość:
+
+- Dodania państw i stolic
+- Wyświetlenia aktualnego wyniku
+- Zapisania państw i stolic do pliku
+- Odczytania państw i stolic z pliku
+- Pokazania aktualnej zawartości list
+
+Gracz decyduje o ilości powtórzeń.
